@@ -1,0 +1,7 @@
+apiVersion: kubebuilder.stephen.demo.io/v1
+kind: DemoVolume
+metadata:
+  name: demovolume-sample
+spec:
+  # Add fields here
+  foo: bar
